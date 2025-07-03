@@ -1,0 +1,1 @@
+# Solving_NLDE_using_PINNS
